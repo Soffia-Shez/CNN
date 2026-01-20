@@ -1,7 +1,7 @@
 # CNN 
-📌 **Descripción**: *Rebecca*,una red neuronal convolucional, es capaz de clasificar imágenes marinas y explicar sus decisiones mediante Grad-CAM, mostrando el porcentaje de certeza de que es de cierto grupo y resaltando las regiones en las que se basó para tomar dicha decisión, esto con ayuda de Grad-CAM. El modelo tiene por objetivo reducir el **underfitting** y **overfitting** para aumentar la **generalización**.
-🔧 **Tecnologías**: Python, TensorFlow, Matplotlib, Numpy, OpenCV, Icrawler
-📝 **Funciones**: 
+📌 **Descripción**: *Rebecca*,una red neuronal convolucional, es capaz de clasificar imágenes marinas y explicar sus decisiones mediante Grad-CAM, mostrando el porcentaje de certeza de que es de cierto grupo y resaltando las regiones en las que se basó para tomar dicha decisión, esto con ayuda de Grad-CAM. El modelo tiene por objetivo reducir el **underfitting** y **overfitting** para aumentar la **generalización**.<br>
+🔧 **Tecnologías**: Python, TensorFlow, Matplotlib, Numpy, OpenCV, Icrawler<br>
+📝 **Funciones**: <br>
 <div>
   <ul>
     <li>Preprocesamiento de imágenes</li>
