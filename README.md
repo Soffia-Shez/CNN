@@ -17,3 +17,6 @@
     <li>Superposición visual del mapa de calor (Genera una imagen final que fusiona la imagen original, el mapa de activación y la transparencia controlada para mejor interpretación)</li>
   </ul>
 </div>
+
+**Explicación del proyecto**: <br> 
+https://youtu.be/rGP67X91rRE 
